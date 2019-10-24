@@ -6,6 +6,5 @@ Contact: Shigeaki Kanatani
 
 shigeaki.kanatani@ki.se
 
-kanashigeaki@gmail.com
        
      
