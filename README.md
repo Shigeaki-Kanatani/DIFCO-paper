@@ -4,8 +4,8 @@ These scripts was used for DIFCO project paper in Per Uhlen lab.
 
 Contact Shigeaki Kanatani
 
-email: shigeaki.kanatani@ki.se
+shigeaki.kanatani@ki.se
 
-       kanashigeaki@gmail.com
+kanashigeaki@gmail.com
        
      
